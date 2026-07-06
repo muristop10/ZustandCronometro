@@ -6,6 +6,7 @@ import SwitchMusica from "./SwitchMusica";
 import BotaoCronometro from "./BotaoCronometro";
 
 export default function Cronometro() {
+
   return (
     <div className={styles["cronometer"]}>
       <BotoesModos />
